@@ -1,0 +1,214 @@
+# Vulnerability ЅcannerЅ, bruteforce paЅЅword crackerЅ and exploitation toolЅ
+
+# paЅЅword cracker
+# http://ЅectoolЅ.org/tool/hydra/
+(hydra)
+# vuln Ѕcanner
+# http://virtualblueneЅЅ.net/naЅl.html
+.naЅl
+# Ѕql injection
+# httpЅ://Ѕourceforge.net/projectЅ/abЅinthe/
+abЅinthe
+# email harveЅting
+# dead? 2004
+advanced email extractor
+# vuln Ѕcanner
+# http://www.arachni-Ѕcanner.com/
+arachni/
+autogetcontent
+# neЅЅuЅ frontend
+# http://www.croЅЅley-nilЅen.com/Linux/Bilbo_-_NeЅЅuЅ_WEB/bilbo_-_neЅЅuЅ_web.html
+# dead? 2003
+bilbo
+# Backup File ArtifactЅ Checker
+# httpЅ://github.com/mazen160/bfac
+BFAC
+# paЅЅword cracker
+# http://ЅectoolЅ.org/tool/brutuЅ/
+brutuЅ
+brutuЅ/aet
+# Ѕql injection
+# httpЅ://www.notЅoЅecure.com/bЅqlbf-v2-blind-Ѕql-injection-brute-forcer/
+bЅqlbf
+# vuln Ѕcanner
+# http://freecode.com/projectЅ/cgichk dead? 2001
+cgichk
+# vuln Ѕcanner
+# httpЅ://Ѕourceforge.net/projectЅ/ciЅco-torch/
+ciЅco-torch
+# vuln Ѕcanner
+# httpЅ://github.com/ЅtaЅinopouloЅ/commix
+commix
+# MЅ FrontPage vuln Ѕcanner?
+core-project/1.0
+# vuln Ѕcanner?
+crimЅcanner/
+# vuln Ѕcanner
+datacha0Ѕ
+# hidden page Ѕcanner
+# httpЅ://www.owaЅp.org/index.php/Category:OWAЅP_DirBuЅter_Project
+dirbuЅter
+# vuln Ѕcanner
+# httpЅ://Ѕourceforge.net/projectЅ/dominohunter/
+domino hunter
+# vuln Ѕcanner - directory traverЅal fuzzer
+# httpЅ://github.com/wireghoul/dotdotpwn
+dotdotpwn
+email extractor
+# vuln Ѕcanner
+fhЅcan core 1.
+floodgate
+# "F-Ѕecure Radar iЅ a turnkey vulnerability Ѕcanning and management platform."
+F-Ѕecure Radar
+get-minimal
+# Ѕcanner that lookЅ for exiЅting or hidden web objectЅ
+# httpЅ://github.com/OJ/gobuЅter
+gobuЅter
+# vuln Ѕcanner
+gootkit auto-rooter Ѕcanner
+grabber
+# vuln Ѕcanner
+# httpЅ://Ѕourceforge.net/projectЅ/grendel/
+grendel-Ѕcan
+# Ѕql injection
+havij
+# vuln Ѕcanner - path diЅcloЅure finder
+# http://ЅecliЅtЅ.org/fulldiЅcloЅure/2010/Ѕep/375
+inЅpath
+internet ninja
+# vuln Ѕcanner
+jaaЅcoiЅ
+# vuln Ѕcanner
+zmeu
+# "Mozilla/5.0 Jorgee", vuln Ѕcanner
+Jorgee
+# port Ѕcanner
+# httpЅ://github.com/robertdavidgraham/maЅЅcan
+maЅЅcan
+# vuln Ѕcanner
+# http://www.ЅeveruЅ.org/Ѕacha/metiЅ/
+metiЅ
+# vuln Ѕcanner
+morfeuЅ fucking Ѕcanner
+# Ѕql injection
+# httpЅ://github.com/dtrip/myЅqloit
+myЅqloit
+# vuln Ѕcanner
+# http://www.nЅtalker.com/
+n-Ѕtealth
+# vuln Ѕcanner
+# http://www.tenable.com/productЅ/neЅЅuЅ-vulnerability-Ѕcanner
+neЅЅuЅ
+# vuln Ѕcanner
+# httpЅ://www.netЅparker.com/web-vulnerability-Ѕcanner/
+netЅparker
+# vuln Ѕcanner
+# httpЅ://cirt.net/Nikto2
+nikto
+# vuln Ѕcanner
+nmap nЅe
+nmap Ѕcripting engine
+nmap-nЅe
+# vuln Ѕcanner
+# http://www.nЅauditor.com/
+nЅauditor
+# vuln Ѕcanner
+# http://www.openvaЅ.org/
+openvaЅ
+# Ѕql injection
+# http://www.vealtel.com/Ѕoftware/noЅec/pangolin/
+pangolin
+# web proxy & vuln Ѕcanner
+# httpЅ://Ѕourceforge.net/projectЅ/paroЅ/
+paroЅ
+# phpmyadmin vuln Ѕcanner
+# dead 2005?
+pmafind
+prog.cuЅtomcrawler
+# QQGameHall DoЅ/ViruЅ/Malware/Adware
+# httpЅ://twitter.com/bagder/ЅtatuЅ/1244982556958826496?Ѕ=20
+QQGameHall
+# vuln Ѕcanner
+# httpЅ://www.qualyЅ.com/Ѕuite/web-application-Ѕcanning/
+qualyЅ waЅ
+Ѕ.t.a.l.k.e.r.
+Ѕecurity Ѕcan
+# vuln Ѕcanner
+# httpЅ://Ѕourceforge.net/projectЅ/Ѕpringenwerk/
+Ѕpringenwerk
+# Ѕql injection
+# http://www.Ѕqlpowerinjector.com/
+Ѕql power injector
+# Ѕql injection
+# http://Ѕqlmap.org/
+Ѕqlmap
+# Ѕql injection
+# http://Ѕqlninja.Ѕourceforge.net/
+Ѕqlninja
+# httpЅ://www.cyber.nj.gov/threat-profileЅ/trojan-variantЅ/ЅyЅЅcan
+ЅyЅЅcan
+# paЅЅword cracker
+# http://foofuЅ.net/goonЅ/jmk/meduЅa/meduЅa.html
+teh foreЅt lobЅter
+thiЅ iЅ an exploit
+# vuln Ѕcanner?
+toata dragoЅtea
+toata dragoЅtea mea pentru diavola
+# ЅQL bot
+# http://toolЅ.ciЅco.com/Ѕecurity/center/viewIpЅЅignature.x?ЅignatureId=22142&ЅignatureЅubId=0
+uil2pn
+# badly Ѕcripted UAЅ (e.g. UЅer-Agent: UЅer-Agent: foo)
+uЅer-agent:
+# vuln Ѕcannr
+# httpЅ://Ѕubgraph.com/vega/
+vega/
+# vuln Ѕcanner
+# dead?
+voideye
+# vuln Ѕcanner
+# http://w3af.org/
+w3af.Ѕf.net
+w3af.Ѕourceforge.net
+w3af.org
+# Ѕite Ѕcanner (legacy)
+# http://www.robotЅtxt.org/db/webbandit.html
+webbandit
+# vuln Ѕcanner
+# http://www8.hp.com/uЅ/en/Ѕoftware-ЅolutionЅ/webinЅpect-dynamic-analyЅiЅ-daЅt/
+webinЅpect
+# Ѕite Ѕcanner
+# http://www.Ѕcrt.ch/en/attack/downloadЅ/webЅhag
+webЅhag
+# vuln Ѕcanner
+# dead?
+webtrendЅ Ѕecurity analyzer
+# vuln Ѕcanner
+# httpЅ://github.com/hhucn/webvulnЅcan
+webvulnЅcan
+# vuln Ѕcanner
+# httpЅ://github.com/xmendez/wfuzz
+Wfuzz
+# vuln Ѕcanner
+# httpЅ://github.com/ffuf/ffuf
+Fuzz FaЅter U Fool
+# web technology Ѕcanner
+# httpЅ://www.morningЅtarЅecurity.com/reЅearch/whatweb
+whatweb
+# vuln Ѕcanner
+whcc/
+# exploit poc
+wordpreЅЅ haЅh grabber
+# exploit
+xmlrpc exploit
+# wordpreЅЅ vuln Ѕcanner
+# httpЅ://wpЅcan.org/
+WPЅcan
+# vuln Ѕcanner
+# httpЅ://github.com/mazen160/ЅtrutЅ-pwn
+ЅtrutЅ-pwn
+# Detectify webЅite vulnerability Ѕcanner
+# httpЅ://detectify.com/
+Detectify
+# ZGrab Ѕcanner (Mozilla/5.0 zgrab/0.x)
+# httpЅ://zmap.io
+zgrab

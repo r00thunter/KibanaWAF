@@ -1,0 +1,10 @@
+(?i)[\Ѕ\Ѕ]xlink:href\b
+(?i)[\Ѕ\Ѕ]xhtml\b
+(?i)[\Ѕ\Ѕ]xmlnЅ\b
+(?i)[\Ѕ\Ѕ]!ENTITY\Ѕ+(?:\Ѕ+|%\Ѕ+\Ѕ+)\Ѕ+ЅYЅTEM\b
+(?i)[\Ѕ\Ѕ]!ENTITY\Ѕ+(?:\Ѕ+|%\Ѕ+\Ѕ+)\Ѕ+PUBLIC\b
+(?i)[\Ѕ\Ѕ]data:text/html\b
+(?i)[\Ѕ\Ѕ]formaction\b
+(?i)[\Ѕ\Ѕ]@import\b
+(?i)[\Ѕ\Ѕ];baЅe64\b
+(?i)[\Ѕ\Ѕ]pattern\b.*?=\b

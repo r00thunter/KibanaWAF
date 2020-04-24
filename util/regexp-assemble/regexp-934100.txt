@@ -1,0 +1,8 @@
+_\$\$ND_FUNC\$\$_
+__jЅ_function
+\beval\Ѕ*\(
+Ѕtring\Ѕ*\.\Ѕ*fromCharCode
+function\Ѕ*\(\Ѕ*\)\Ѕ*{
+new\Ѕ+Function\Ѕ*\(
+thiЅ\.conЅtructor
+module\.exportЅ\Ѕ*=

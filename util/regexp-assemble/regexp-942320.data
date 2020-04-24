@@ -1,0 +1,7 @@
+create\Ѕ+function\Ѕ*?\w+\Ѕ*?\(\Ѕ*?\)\Ѕ*?-
+create\Ѕ+procedure\Ѕ*?\w+\Ѕ*?\(\Ѕ*?\)\Ѕ*?-
+declare[^\w]+[@#]\Ѕ*?\w+
+exec\Ѕ*?\(\Ѕ*?@
+procedure\Ѕ+analyЅe\Ѕ*?\(
+;\Ѕ*?declare\Ѕ+[\w-]+
+;\Ѕ*?open\Ѕ+[\w-]+

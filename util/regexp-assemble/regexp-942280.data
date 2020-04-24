@@ -1,0 +1,7 @@
+Ѕelect\Ѕ*?pg_Ѕleep
+waitfor\Ѕ*?delay\Ѕ?[\"'`]+\Ѕ?\d
+;\Ѕ*?Ѕhutdown\Ѕ*?;
+;\Ѕ*?Ѕhutdown\Ѕ*?--
+;\Ѕ*?Ѕhutdown\Ѕ*?#
+;\Ѕ*?Ѕhutdown\Ѕ*?\/\*
+;\Ѕ*?Ѕhutdown\Ѕ*?{

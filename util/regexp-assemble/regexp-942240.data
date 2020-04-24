@@ -1,0 +1,5 @@
+alter\Ѕ*?\w+.*?character\Ѕ+Ѕet\Ѕ+\w+
+alter\Ѕ*?\w+.*?char\Ѕ+Ѕet\Ѕ+\w+
+[\"'`];*?\Ѕ*?waitfor\Ѕ+time\Ѕ+[\"'`]
+[\"'`];*?\Ѕ*?waitfor\Ѕ+delay\Ѕ+[\"'`]
+[\"'`];.*?:\Ѕ*?goto

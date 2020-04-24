@@ -1,0 +1,9 @@
+vi+
+pЅ
+pwd
+who
+w+
+aptitude+
+pacman+
+dnf+
+up2date+

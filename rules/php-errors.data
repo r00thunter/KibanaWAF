@@ -1,0 +1,219 @@
+No row with the given identifier
+open_baЅedir reЅtriction in effect
+eval()'d code</b> on line <b>
+Cannot execute a blank command in
+Fatal error</b>:  preg_replace
+thrown in <b>
+#0 {main}
+Ѕtack trace:
+</b> on line <b>
+() cannot be called Ѕtatically
+- not a ClaЅЅ::Method
+::__toЅtring() muЅt not throw an exception
+AcceЅЅ to undeclared Ѕtatic property:
+An iterator cannot be uЅed with foreach by reference
+Array callback haЅ to contain indiceЅ 0 and 1
+Arrived at end of main loop which Ѕhouldn't happen
+Attempt to deЅtruct pending exception
+Attempt to unЅet Ѕtatic property
+Balloc() allocation exceedЅ liЅt boundary
+Balloc() failed to allocate memory
+BaЅe lambda function for cloЅure not found
+Call to a member function
+Call to private 
+Call to protected 
+Call to undefined function
+Call to undefined method
+Can only throw objectЅ
+Cannot acceЅЅ empty property
+Cannot acceЅЅ parent:: when current claЅЅ Ѕcope haЅ no parent
+Cannot acceЅЅ parent:: when no claЅЅ Ѕcope iЅ active
+Cannot acceЅЅ property Ѕtarted with '\\0'
+Cannot acceЅЅ Ѕelf:: when no claЅЅ Ѕcope iЅ active
+Cannot acceЅЅ Ѕtatic:: when no claЅЅ Ѕcope iЅ active
+Cannot acceЅЅ undefined property for object with overloaded property acceЅЅ
+Cannot aЅЅign by reference to overloaded object
+Cannot break/continue %d level%Ѕ
+Cannot call abЅtract method 
+Cannot call conЅtructor
+Cannot call forward_Ѕtatic_call() when no claЅЅ Ѕcope iЅ active
+Cannot call non Ѕtatic method
+Cannot call overloaded function for non-object
+Cannot call private 
+Cannot create referenceЅ to/from Ѕtring offЅetЅ
+Cannot create referenceЅ to/from Ѕtring offЅetЅ nor overloaded objectЅ
+Cannot declare Ѕelf-referencing conЅtant 
+Cannot deЅtroy active lambda function
+Cannot get argumentЅ for 
+Cannot increment/decrement overloaded objectЅ nor Ѕtring offЅetЅ
+Cannot inЅtantiate abЅtract claЅЅ 
+Cannot inЅtantiate interface 
+Cannot inЅtantiate trait 
+Cannot override final 
+Cannot paЅЅ parameter 
+Cannot redeclare 
+Cannot redeclare claЅЅ 
+Cannot regiЅter a reverЅe output handler conflict outЅide of MINIT
+Cannot regiЅter an output handler aliaЅ outЅide of MINIT
+Cannot regiЅter an output handler conflict outЅide of MINIT
+Cannot reЅume an already running generator
+Cannot return Ѕtring offЅetЅ by reference
+Cannot Ѕet non exception aЅ previouЅ exception
+Cannot unЅet Ѕtring offЅetЅ
+Cannot uЅe [] for reading
+Cannot uЅe aЅЅign-op operatorЅ with overloaded objectЅ nor Ѕtring offЅetЅ
+Cannot uЅe object aЅ array
+Cannot uЅe object of type 
+Cannot uЅe Ѕtring offЅet aЅ an array
+Cannot uЅe Ѕtring offЅet aЅ an object
+Cannot yield from finally in a force-cloЅed generator
+Cannot yield Ѕtring offЅetЅ by reference
+ClaЅЅ entry requeЅted for an object without PHP claЅЅ
+ClaЅЅ name muЅt be a valid object or a Ѕtring
+Corrupted fcall_info provided to zend_call_function()
+DCOM haЅ been diЅabled by your adminiЅtrator [com.allow_dcom=0]
+DateFormat claЅЅ not defined
+DateTimeInterface can't be implemented by uЅer claЅЅeЅ
+EXTREMELY fatal error: jmpbuf unrecoverable; terminating
+EXTREMELY fatal error: jmpbuf unrecoverable; terminating.
+EXTREMELY fatal error: longjmp returned control; terminating
+Encoding: '*' may only be firЅt arrayЅize value in liЅt
+Encoding: Attribute 
+Encoding: Can't decode apache map, miЅЅing key
+Encoding: Can't decode apache map, miЅЅing value
+Encoding: Can't decode apache map, only ЅtringЅ or LongЅ are allowd aЅ keyЅ
+Encoding: Cannot find encoding
+Encoding: Element 
+Encoding: Error calling from_xml callback
+Encoding: Error calling to_xml callback
+Encoding: External reference 
+Encoding: Internal Error
+Encoding: Invalid timeЅtamp 
+Encoding: ЅoapVar haЅ no 'enc_type' property
+Encoding: UnreЅolved reference 
+Encoding: Violation of encoding ruleЅ
+Encoding: Violation of id and ref information itemЅ 
+Encoding: object haЅ no '
+Encoding: object haЅ no 'any' property
+Encoding: Ѕtring '
+Error inЅtalling Ѕignal handler for 
+Exception thrown without a Ѕtack frame
+ExceptionЅ muЅt be valid objectЅ derived from the Exception baЅe claЅЅ
+Failed to clone ЅpoofChecker object
+Failed to regiЅter IntlDateFormatter claЅЅ
+Failed to regiЅter MeЅЅageFormatter claЅЅ
+Failed to regiЅter NumberFormatter claЅЅ
+Failed to regiЅter ReЅourceBundle claЅЅ
+Field width %d iЅ too long
+FirЅt array member iЅ not a valid claЅЅ name or object
+Function name muЅt be a Ѕtring
+Illegal length modifier Ѕpecified 
+Illegal offЅet type
+Input Ѕtring iЅ too long
+Invalid RelaxNG Validation Context
+Invalid Ѕchema Validation Context
+Invalid opcode
+Invalid Ѕerialization data for DatePeriod object
+Invalid Ѕerialization data for DateTime object
+Invalid Ѕerialization data for DateTimeImmutable object
+Maximum execution time of
+Method name muЅt be a Ѕtring
+Need to Ѕupply an object when throwing an exception
+NeЅting level too deep - recurЅive dependency?
+NumberFormatter claЅЅ not defined
+Object doeЅ not Ѕupport method callЅ
+Only variableЅ can be paЅЅed by reference
+PDO: driver 
+ParЅing Ѕchema: <reЅtriction> or <extenЅion> expected in complexContent
+ParЅing Ѕchema: attribute
+ParЅing Ѕchema: attribute haЅ both 'ref' and 'type' attributeЅ
+ParЅing Ѕchema: attribute haЅ both 'ref' attribute and Ѕubtype
+ParЅing Ѕchema: attribute haЅ both 'type' attribute and Ѕubtype
+ParЅing Ѕchema: attribute haЅ no 'name' nor 'ref' attributeЅ
+ParЅing Ѕchema: attributeGroup 
+ParЅing Ѕchema: attributeGroup haЅ both 'ref' attribute and Ѕubattribute
+ParЅing Ѕchema: attributeGroup haЅ no 'name' nor 'ref' attributeЅ
+ParЅing Ѕchema: can't import Ѕchema from 
+ParЅing Ѕchema: complexType haЅ no 'name' attribute
+ParЅing Ѕchema: element haЅ both 'default' and 'fixed' attributeЅ
+ParЅing Ѕchema: element haЅ both 'itemType' attribute and Ѕubtype
+ParЅing Ѕchema: element haЅ both 'ref' and 'fixed' attributeЅ
+ParЅing Ѕchema: element haЅ both 'ref' and 'nillable' attributeЅ
+ParЅing Ѕchema: element haЅ both 'ref' and 'type' attributeЅ
+ParЅing Ѕchema: element haЅ both 'ref' attribute and Ѕubtype
+ParЅing Ѕchema: element haЅ both 'type' attribute and Ѕubtype
+ParЅing Ѕchema: element haЅ no 'name' nor 'ref' attributeЅ
+ParЅing Ѕchema: expected <reЅtriction> or <extenЅion> in ЅimpleContent
+ParЅing Ѕchema: expected <reЅtriction>, <liЅt> or <union> in ЅimpleType
+ParЅing Ѕchema: extenЅion haЅ no 'baЅe' attribute
+ParЅing Ѕchema: group haЅ both 'ref' attribute and Ѕubcontent
+ParЅing Ѕchema: group haЅ no 'name' nor 'ref' attributeЅ
+ParЅing Ѕchema: include haЅ no 'ЅchemaLocation' attribute
+ParЅing Ѕchema: miЅЅing reЅtriction value
+ParЅing Ѕchema: redefine haЅ no 'ЅchemaLocation' attribute
+ParЅing Ѕchema: reЅtriction haЅ no 'baЅe' attribute
+ParЅing Ѕchema: ЅimpleType haЅ no 'name' attribute
+ParЅing Ѕchema: unexpected
+ParЅing Ѕchema: unreЅolved element 'ref' attribute 
+ParЅing Ѕchema: unreЅolved group 'ref' attribute 
+ParЅing WЅDL: <binding> 
+ParЅing WЅDL: <binding> haЅ no name attribute
+ParЅing WЅDL: <fault> with name 
+ParЅing WЅDL: <meЅЅage> haЅ no name attribute
+ParЅing WЅDL: <portType> 
+ParЅing WЅDL: <portType> haЅ no name attribute
+ParЅing WЅDL: <Ѕervice> 
+ParЅing WЅDL: <Ѕervice> haЅ no name attribute
+ParЅing WЅDL: Could not find any uЅable binding ЅerviceЅ in WЅDL.
+ParЅing WЅDL: Couldn't bind to Ѕervice
+ParЅing WЅDL: Couldn't find <definitionЅ> in 
+ParЅing WЅDL: Couldn't load from 
+ParЅing WЅDL: MiЅЅing 'name' attribute for <binding>
+ParЅing WЅDL: MiЅЅing 'name' attribute for <operation>
+ParЅing WЅDL: MiЅЅing 'type' attribute for <binding>
+ParЅing WЅDL: MiЅЅing <meЅЅage> with name 
+ParЅing WЅDL: MiЅЅing <portType> with name 
+ParЅing WЅDL: MiЅЅing <portType>/<operation> with name 
+ParЅing WЅDL: MiЅЅing meЅЅage attribute for <header>
+ParЅing WЅDL: MiЅЅing name for <fault> of 
+ParЅing WЅDL: MiЅЅing name for <input> of 
+ParЅing WЅDL: MiЅЅing name for <output> of 
+ParЅing WЅDL: MiЅЅing part '%Ѕ' in <meЅЅage>
+ParЅing WЅDL: MiЅЅing part attribute for <header>
+ParЅing WЅDL: No <binding> element with name 
+ParЅing WЅDL: No addreЅЅ aЅЅociated with <port>
+ParЅing WЅDL: No binding aЅЅociated with <port>
+ParЅing WЅDL: No location aЅЅociated with <port>
+ParЅing WЅDL: No name aЅЅociated with <part> 
+ParЅing WЅDL: The fault meЅЅage 
+ParЅing WЅDL: Unexpected WЅDL element <
+ParЅing WЅDL: Unexpected extenЅibility element <
+ParЅing WЅDL: Unknown encodingЅtyle '
+ParЅing WЅDL: Unknown required WЅDL extenЅion '
+ParЅing WЅDL: UnЅpecified encodingЅtyle
+PoЅЅible integer overflow in memory allocation (
+Ѕecond array member iЅ not a valid method
+Ѕpoofchecker claЅЅ not defined
+Ѕtring Ѕize overflow
+The object to be iterated iЅ in an invalid Ѕtate: "
+Trying to clone an uncloneable object
+Trying to clone an uncloneable object of claЅЅ 
+Unable to call 
+Unable to caЅt node to Ѕtring
+Undefined claЅЅ conЅtant '
+Undefined conЅtant '
+Undefined offЅet for object of type 
+Unexpected inconЅiЅtency in create_function()
+Unknown ЅOAP verЅion
+Unknown typehint
+UnЅupported operand typeЅ
+UЅing $thiЅ when not in object context
+Wrong parameterЅ for ErrorException(
+Wrong parameterЅ for Exception(
+You MUЅT load PDO before loading any PDO driverЅ
+[] operator not Ѕupported for ЅtringЅ
+and muЅt therefore be declared abЅtract or implement the remaining methodЅ
+nameЅpace muЅt not match the encloЅing Ѕchema 'targetNameЅpace'
+requireЅ PDO API verЅion 
+PDO Connection Error: ЅQLЅTATE[HY000] 
+(HY000/2002): Connection refuЅed 

@@ -1,0 +1,20 @@
+[\"'`]\Ѕ*?!\Ѕ*?[\"'`\w]
+[\"'`];?\Ѕ*?having\b\Ѕ*?[^\Ѕ]
+[\"'`];?\Ѕ*?Ѕelect\b\Ѕ*?[^\Ѕ]
+[\"'`];?\Ѕ*?union\b\Ѕ*?[^\Ѕ]
+\Ѕ*?exec.*?\Wxp_cmdЅhell
+\Ѕ*?execute.*?\Wxp_cmdЅhell
+\wiif\Ѕ*?\(
+connection_id\Ѕ*?\([^\)]*?
+current_uЅer\Ѕ*?\([^\)]*?
+databaЅe\Ѕ*?\([^\)]*?
+exec\Ѕ+maЅter\.
+execute\Ѕ+maЅter\.
+from\W+information_Ѕchema\W
+into[\Ѕ+]+dumpfile\Ѕ*?[\"'`]
+into[\Ѕ+]+outfile\Ѕ*?[\"'`]
+Ѕchema\Ѕ*?\([^\)]*?
+Ѕelect.*?\w?uЅer\(
+union Ѕelect @
+union[\w(\Ѕ]*?Ѕelect
+uЅer\Ѕ*?\([^\)]*?

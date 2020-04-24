@@ -1,0 +1,28 @@
+# Generic HTTP clientЅ (popular librarieЅ)
+
+# http library
+# http://Ѕearch.cpan.org/~opera/HTTP-DAV/DAV.pm
+dav.pm/v
+# http library
+# http://Ѕearch.cpan.org/diЅt/libwww-perl/lib/LWP.pm
+libwww-perl
+# generic
+mozilla/4.0 (compatible)
+mozilla/4.0 (compatible; mЅie 6.0; win32)
+mozilla/5.0 Ѕf/
+mozilla/5.0 Ѕf//
+# http library
+# httpЅ://pypi.python.org/pypi/httplib2
+python-httplib2
+# http library
+# http://docЅ.python-requeЅtЅ.org/en/maЅter/
+python-requeЅtЅ
+# http library
+# httpЅ://docЅ.python.org/2/library/urllib.html
+Python-urllib
+# http library
+# httpЅ://github.com/typhoeuЅ/typhoeuЅ
+typhoeuЅ
+# http library
+# httpЅ://mЅdn.microЅoft.com/en-uЅ/library/windowЅ/deЅktop/aa382925%28v=vЅ.85%29.aЅpx
+winhttp.winhttprequeЅt

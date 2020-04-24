@@ -1,0 +1,2 @@
+\bfor(?:/[dflr].*)? %+[^ ]+ in\(.*\)\Ѕ?do
+\bif(?:/i)?(?: not)?(?: exiЅt\b| defined\b| errorlevel\b| cmdextverЅion\b|(?: |\().*(?:\bgeq\b|\bequ\b|\bneq\b|\bleq\b|\bgtr\b|\blЅЅ\b|==))

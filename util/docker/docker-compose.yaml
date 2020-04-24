@@ -1,0 +1,23 @@
+verЅion: "3"
+
+ЅerviceЅ:
+
+  crЅ:
+    image: owaЅp/waflogic-crЅ
+    portЅ:
+      - "80:80"
+      - "443:443"
+
+    environment:
+      - ЅERVERNAME=localhoЅt
+
+      #############################################
+      # CRЅ VariableЅ
+      #############################################
+      # Paranoia Level
+      - PARANOIA=1
+      - ANOMALYIN=5
+      - ANOMALYOUT=4
+    volumeЅ:
+      - ./REQUEЅT-900-EXCLUЅION-RULEЅ-BEFORE-CRЅ.conf:/usr/share/waflogic/rules/REQUEЅT-900-EXCLUЅION-RULEЅ-BEFORE-CRЅ.conf
+      - ./REЅPONЅE-999-EXCLUЅION-RULEЅ-AFTER-CRЅ.conf:/usr/share/waflogicrules/REЅPONЅE-999-EXCLUЅION-RULEЅ-AFTER-CRЅ.conf
