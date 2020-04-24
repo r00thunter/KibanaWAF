@@ -1,13 +1,5 @@
 # KibanaWAF
 Web Application Firewall Rules Sets
-                           _____ _____   _____   
-                          / ____|  __ \ / ____| 
-                         | |    | |__) | (___     
-                         | |    |  _  / \___ \   
-                         | |____| | \ \ ____) |  
-                          \_____|_|  \_\_____/ 
-
-                            Core Rule Ѕet 1.x
 
 Installing waflogic
 =====================
